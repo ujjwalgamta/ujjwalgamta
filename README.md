@@ -45,7 +45,6 @@ I'm focused on building reliable infrastructure and strengthening my skills in *
 - Used Git for version control.
 <!-- **Repository:** [Add project repository link](https://github.com/) -->
 
-> Replace the project links above with the actual repository URLs. If a project is not public yet, publish a cleaned-up version with a useful README before linking it here.
 
 ## 📜 Certifications & Training
 
