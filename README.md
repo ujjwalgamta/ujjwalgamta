@@ -37,12 +37,13 @@ I'm focused on building reliable infrastructure and strengthening my skills in *
 ### ☁️ Hotel Booking Platform — AWS Cloud Infrastructure
 - Planned and deployed cloud infrastructure using AWS EC2, S3, RDS, VPC, IAM, Elastic Load Balancing, and Auto Scaling.
 - Worked with Apache/Nginx and SSL as part of the application deployment environment.
-- **Repository:** [Add project repository link](https://github.com/)
+<!-- **Repository:** [Add project repository link](https://github.com/) -->
+
 
 ### 🌱 Agriculture Platform — Django Web Application
 - Built a responsive web application using Django, HTML, CSS, JavaScript, and MySQL.
 - Used Git for version control.
-- **Repository:** [Add project repository link](https://github.com/)
+<!-- **Repository:** [Add project repository link](https://github.com/) -->
 
 > Replace the project links above with the actual repository URLs. If a project is not public yet, publish a cleaned-up version with a useful README before linking it here.
 
