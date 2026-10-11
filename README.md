@@ -2,7 +2,7 @@
 
 # Hi, I'm Ujjwal Gamta 👋
 
-### Infrastructure & Security Engineer | Linux | AWS Cloud | DevOps | Networking
+### Infrastructure & Security Engineer | Linux | AWS Cloud | DevOps | Networking | Security
 
 I work with Linux and Windows environments, AWS infrastructure, monitoring, troubleshooting, and automation.  
 I'm focused on building reliable infrastructure and strengthening my skills in **Linux Engineering, Cloud, and DevOps**.
