@@ -37,7 +37,7 @@ I'm focused on building reliable infrastructure and strengthening my skills in *
 ### ☁️ Hotel Booking Platform — AWS Cloud Infrastructure
 - Planned and deployed cloud infrastructure using AWS EC2, S3, RDS, VPC, IAM, Elastic Load Balancing, and Auto Scaling.
 - Worked with Apache/Nginx and SSL as part of the application deployment environment.
-**Repository:** https://github.com/ujjwalgamta/Cloud_project/blob/main/README.md
+- **Repository:** https://github.com/ujjwalgamta/Cloud_project/blob/main/README.md
 
 
 ### 🌱 Agriculture Platform — Django Web Application
