@@ -53,7 +53,7 @@ I'm focused on building reliable infrastructure and strengthening my skills in *
 - **AWS re/Start Program** — Tech Mahindra Foundation (2025)
 - **Linux Training (RHCSA/RHCE)** — Network Nuts (2023)
 
-## 📈 What I'm Learning
+## 📈 What I'm Working & Improving on
 
 - Linux administration, troubleshooting, and system performance
 - AWS architecture and cloud operations
